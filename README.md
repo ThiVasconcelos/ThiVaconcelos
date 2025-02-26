@@ -14,7 +14,7 @@ I'm currently focused on advancing my Data Engineering skills while diving deepe
 
 ## 🧾 My Expertise
 
-I have a diverse background spanning multiple domains, from business operations to data-driven solutions. I specialize in all phases of the data lifecycle, including Data Engineering, Data Analysis, and Business Intelligence (BI). My versatility allows me to work with a wide range of tools and technologies, delivering effective, tailored solutions to clients while leading teams to achieve impactful results. I'm also working on building web applications that integrate data and AI.
+I have a diverse background across several domains, from business operations to data-driven solutions. I specialize in all phases of the **data lifecycle**, including **Data Engineering**, **Data Analysis**, and **Business Intelligence (BI)**. My versatility allows me to work with a wide range of tools and technologies, delivering effective, tailored solutions to clients while leading teams to achieve impactful results. I'm also working on building web applications that integrate data and AI.
 
 
 ## 🛠 Tools & Technologies
